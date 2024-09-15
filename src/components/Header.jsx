@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="grid grid-flow-col p-2 h-14 text-center shadow-lg bg-red-100">
+    <div className="grid grid-flow-col p-2 px-5 h-14 text-center shadow-lg bg-red-100">
       <div className="flex col-span-1 items-center">
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamburger_icon.svg/800px-Hamburger_icon.svg.png"
